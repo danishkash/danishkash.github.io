@@ -34,14 +34,14 @@ My main research interests are currently in combinatorial optimization, with som
   Danish Kashaev, Guido Schäfer  
   **APPROX 2023**  
   [ArXiv version](https://arxiv.org/abs/2211.01699)  
-  [Conference version](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.APPROX/RANDOM.2023.20)
+  [Conference version](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.APPROX/RANDOM.2023.20)  
   [Slides](slides_vertex_cover.pdf)
 
 - ***A Simple Optimal Contention Resolution Scheme for Uniform Matroids***  
   Danish Kashaev, Richard Santiago  
   **Theoretical Computer Science 2023**  
   [ArXiv version](https://arxiv.org/abs/2105.11992)  
-  [Journal version](https://www.sciencedirect.com/science/article/pii/S0304397522006545?via%3Dihub)
+  [Journal version](https://www.sciencedirect.com/science/article/pii/S0304397522006545?via%3Dihub)  
   [Slides](slides_CRS.pdf)
    
 # Theses
