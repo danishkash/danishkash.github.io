@@ -7,8 +7,8 @@ I am a final year PhD student in the [Networks and Optimization research group](
 My main research interests are in theoretical computer science and combinatorial optimization. More specifically, most of my work has been in approximation algorithms, online algorithms and algorithmic game theory.
 
 My CV can be found [here](CV_Danish_Kashaev.pdf) and my email addresses are:
-- danich dot 1997 at gmail dot com
-- danish dot kashaev at cwi dot nl
+- danich [dot] 1997 [at] gmail [dot] com
+- danish [dot] kashaev [at] cwi [dot] nl
 
 Here are my [LinkedIn](https://www.linkedin.com/feed/) and [Google Scholar](https://scholar.google.com/citations?user=vXohJnQAAAAJ&hl=en) pages.
 
