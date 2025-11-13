@@ -55,8 +55,8 @@ My main research interests are currently in combinatorial optimization, with som
 
 - Teaching Assistant  
   _Mathematical Optimization_, 2021  
-  ETH Zurich, Institute for Operations Research
+  ETH Zurich, Institute for Operations Research (IFOR)
   
 - Teaching Assistant  
   _Algorithmic Game Theory_, 2023 and 2025  
-  University of Amsterdam, Institute for Logic, Language and computations
+  University of Amsterdam, Institute for Logic, Language and Computation (ILLC)
