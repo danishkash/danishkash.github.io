@@ -13,6 +13,20 @@
   Sander Borst, Danish Kashaev, Zhuan Khye Koh  
   **IPCO 2025**  
   [ArXiv version](https://arxiv.org/abs/2402.13227)
-  
+
+- ***A Nearly Optimal Randomized Algorithm for Explorable Heap Selection***  
+  Sander Borst, Daniel Dadush, Sophie Huiberts, Danish Kashaev  
+  **IPCO 2023, Mathematical Programming**  
+  [ArXiv version](https://arxiv.org/abs/2210.05982) 
+
+- ***Round and Bipartize for Vertex Cover Approximation***  
+  Danish Kashaev, Guido Schäfer  
+  **APPROX 2023**  
+  [ArXiv version](https://arxiv.org/abs/2211.01699)
+
+- ***A Simple Optimal Contention Resolution Scheme for Uniform Matroids***  
+  Danish Kashaev, Richard Santiago  
+  **Theoretical Computer Science**  
+  [ArXiv version](https://arxiv.org/abs/2105.11992)
    
 # Theses
