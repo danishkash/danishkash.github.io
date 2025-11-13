@@ -6,7 +6,7 @@ I am a final year PhD student in the Networks and Optimization group at Centrum 
 
 My main research interests are in theoretical computer science and combinatorial optimization. More specifically, most of my work has been in approximation algorithms, online algorithms and algorithmic game theory.
 
-My CV can be found [here](CV_Danish_Kashaev.pdf) and my email adresses are:
+My CV can be found [here](CV_Danish_Kashaev.pdf) and my email addresses are:
 - danich dot 1997 at gmail dot com
 - danish dot kashaev at cwi dot nl
 
