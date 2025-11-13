@@ -16,7 +16,7 @@
 
 - ***A Nearly Optimal Randomized Algorithm for Explorable Heap Selection***  
   Sander Borst, Daniel Dadush, Sophie Huiberts, Danish Kashaev  
-  **IPCO 2023, Mathematical Programming**  
+  **IPCO 2023, Mathematical Programming 2024**  
   [ArXiv version](https://arxiv.org/abs/2210.05982) 
 
 - ***Round and Bipartize for Vertex Cover Approximation***  
@@ -26,7 +26,7 @@
 
 - ***A Simple Optimal Contention Resolution Scheme for Uniform Matroids***  
   Danish Kashaev, Richard Santiago  
-  **Theoretical Computer Science**  
+  **Theoretical Computer Science 2023**  
   [ArXiv version](https://arxiv.org/abs/2105.11992)
    
 # Theses
