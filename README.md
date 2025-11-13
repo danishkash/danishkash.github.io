@@ -1,3 +1,9 @@
+# About Me
+
+I am currently a final year PhD student in the Networks and Optimization group at Centrum Wiskunde & Informatica, Amsterdam. I hold a master's degree in mathematics from ETH Zurich and a bachelor's degree in mathematics from the University of Geneva.  
+
+My main research interests are in combinatorial optimization, with some previous work done in approximation algorithms, online algorithms and algorithmic game theory.
+
 # Publications
 
 - ***Improved Online Load Balancing in the Two-Norm***  
