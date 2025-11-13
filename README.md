@@ -4,7 +4,11 @@
 
 I am a final year PhD student in the Networks and Optimization group at Centrum Wiskunde & Informatica, Amsterdam. Previously, I did a master's degree in mathematics at ETH Zurich and a bachelor's degree in mathematics at the University of Geneva. 
 
-My main research interests are currently in combinatorial optimization, with some previous work done in approximation algorithms, online algorithms and algorithmic game theory.
+My main research interests are in theoretical computer science and combinatorial optimization. More specifically, most of my work has been in approximation algorithms, online algorithms and algorithmic game theory.
+
+My CV can be found here and my email adresses are:
+- danich dot 1997 at gmail dot com
+- danish dot kashaev at cwi dot nl
 
 # Publications
 
