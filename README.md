@@ -54,7 +54,7 @@ Here are my [LinkedIn](https://www.linkedin.com/feed/) and [Google Scholar](http
    
 # Theses
 
-- **Master's thesis:**  
+- **Master's thesis**  
   _An Optimal Monotone Contention Resolution Scheme for Uniform and Partition Matroids_  
   ETH Zurich, Institute for Operations Research (IFOR)  
   [pdf version](master_thesis_final_v.pdf)
