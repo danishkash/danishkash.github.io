@@ -10,6 +10,8 @@ My CV can be found [here](CV_Danish_Kashaev.pdf) and my email addresses are:
 - danich dot 1997 at gmail dot com
 - danish dot kashaev at cwi dot nl
 
+Here are my [LinkedIn](https://www.linkedin.com/feed/) and [Google Scholar](https://scholar.google.com/citations?user=vXohJnQAAAAJ&hl=en) pages.
+
 # Publications
 
 - ***Improved Online Load Balancing in the Two-Norm***  
