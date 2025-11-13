@@ -1,3 +1,1 @@
-# danishkash.github.io
-
-Testing
+# Publications
