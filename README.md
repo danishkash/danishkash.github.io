@@ -46,7 +46,7 @@ My main research interests are currently in combinatorial optimization, with som
    
 # Theses
 
-- **Master's thesis:** _An Optimal Monotone Contention Resolution Scheme for Uniform and Partition Matroids_
-  Danish Kashaev
-  ETH Zurich, Institute for Operations Research
+- **Master's thesis:** _An Optimal Monotone Contention Resolution Scheme for Uniform and Partition Matroids_  
+  Danish Kashaev  
+  ETH Zurich, Institute for Operations Research  
   [Final version](master_thesis_final_v.pdf)
