@@ -1,6 +1,6 @@
 # Danish Kashaev  
 
-![alt_text](MK3_7365.jpg)
+![Alt_text](MK3_7365.jpg)
 
 I am currently a final year PhD student in the Networks and Optimization group at Centrum Wiskunde & Informatica, Amsterdam. Previously, I did a master's degree in mathematics at ETH Zurich and a bachelor's degree in mathematics at the University of Geneva. 
 
