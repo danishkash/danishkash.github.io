@@ -52,7 +52,7 @@ My CV can be found [here](CV_Danish_Kashaev.pdf) and my email addresses are:
    
 # Theses
 
-- **Master's thesis:**
+- **Master's thesis:**  
   _An Optimal Monotone Contention Resolution Scheme for Uniform and Partition Matroids_  
   ETH Zurich, [Institute for Operations Research (IFOR)](https://math.ethz.ch/ifor)  
   [pdf version](master_thesis_final_v.pdf)
