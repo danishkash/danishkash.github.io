@@ -20,7 +20,8 @@ My main research interests are currently in combinatorial optimization, with som
   Sander Borst, Danish Kashaev, Zhuan Khye Koh  
   **IPCO 2025**  
   [ArXiv version](https://arxiv.org/abs/2402.13227)  
-  [Conference version](https://link.springer.com/chapter/10.1007/978-3-031-93112-3_8)
+  [Conference version](https://link.springer.com/chapter/10.1007/978-3-031-93112-3_8)  
+  [Slides](slides_online_matching.pdf)
 
 - ***A Nearly Optimal Randomized Algorithm for Explorable Heap Selection***  
   Sander Borst, Daniel Dadush, Sophie Huiberts, Danish Kashaev  
