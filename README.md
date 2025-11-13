@@ -1,7 +1,5 @@
 # Danish Kashaev  
 
-![Alt_text](MK3_7365.jpg)
-
 I am currently a final year PhD student in the Networks and Optimization group at Centrum Wiskunde & Informatica, Amsterdam. Previously, I did a master's degree in mathematics at ETH Zurich and a bachelor's degree in mathematics at the University of Geneva. 
 
 My main research interests are currently in combinatorial optimization, with some previous work done in approximation algorithms, online algorithms and algorithmic game theory.
@@ -52,3 +50,13 @@ My main research interests are currently in combinatorial optimization, with som
   Danish Kashaev  
   ETH Zurich, Institute for Operations Research  
   [Final version](master_thesis_final_v.pdf)
+
+# Teaching
+
+- Teaching Assistant
+  _Mathematical Optimization_, 2021
+  ETH Zurich, Institute for Operations Research
+  
+- Teaching Assistant
+  _Algorithmic Game Theory_, 2023 and 2025
+  University of Amsterdam, Institute for Logic, Language and computations
