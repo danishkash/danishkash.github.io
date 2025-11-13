@@ -61,8 +61,8 @@ My CV can be found [here](CV_Danish_Kashaev.pdf) and my email addresses are:
 
 - Teaching Assistant  
   _Mathematical Optimization_, 2021  
-  ETH Zurich, Institute for Operations Research (IFOR)
+  ETH Zurich, [Institute for Operations Research (IFOR)](https://math.ethz.ch/ifor) 
   
 - Teaching Assistant  
   _Algorithmic Game Theory_, 2023 and 2025  
-  University of Amsterdam, Institute for Logic, Language and Computation (ILLC)
+  University of Amsterdam, [Institute for Logic, Language and Computation (ILLC)](https://www.illc.uva.nl)
