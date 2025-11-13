@@ -54,7 +54,7 @@ My CV can be found [here](CV_Danish_Kashaev.pdf) and my email adresses are:
 
 - **Master's thesis:** _An Optimal Monotone Contention Resolution Scheme for Uniform and Partition Matroids_  
   Danish Kashaev  
-  ETH Zurich, Institute for Operations Research  
+  ETH Zurich, Institute for Operations Research (IFOR)
   [Final version](master_thesis_final_v.pdf)
 
 # Teaching
