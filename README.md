@@ -22,7 +22,6 @@ Here are my [LinkedIn](https://www.linkedin.com/feed/) and [Google Scholar](http
   Danish Kashaev  
   **SODA 2026**  
   [ArXiv version](https://arxiv.org/abs/2505.10082)  
-  [Slides](slides_PoA.pdf)
 
 - ***Online Matching on 3-Uniform Hypergraphs***  
   Sander Borst, Danish Kashaev, Zhuan Khye Koh  
