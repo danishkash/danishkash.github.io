@@ -59,6 +59,11 @@ Here are my [LinkedIn](https://www.linkedin.com/feed/) and [Google Scholar](http
   ETH Zurich, Institute for Operations Research (IFOR)  
   [pdf version](master_thesis_final_vers.pdf)
 
+- **PhD thesis**
+  _Approximation via Duality in Offline, Online and Strategic Settings_
+  University of Amsterdam, Institute for Logic, Language and Computation (ILLC)
+  [pdf version](https://pure.uva.nl/ws/files/293900417/Thesis.pdf)
+
 # Teaching
 
 - Teaching Assistant  
