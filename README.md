@@ -56,12 +56,12 @@ Here are my [LinkedIn](https://www.linkedin.com/feed/) and [Google Scholar](http
 
 - **Master's thesis**  
   _An Optimal Monotone Contention Resolution Scheme for Uniform and Partition Matroids_  
-  ETH Zurich, Institute for Operations Research (IFOR)  
+  ETH Zurich; Institute for Operations Research (IFOR)  
   [pdf version](master_thesis_final_vers.pdf)
 
 - **PhD thesis**  
   _Approximation via Duality in Offline, Online and Strategic Settings_  
-  University of Amsterdam, Institute for Logic, Language and Computation (ILLC)  
+  University of Amsterdam; Institute for Logic, Language and Computation (ILLC)  
   [pdf version](https://pure.uva.nl/ws/files/293900417/Thesis.pdf)  
 
 # Teaching
