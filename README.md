@@ -28,7 +28,7 @@ Here are my [LinkedIn](https://www.linkedin.com/feed/) and [Google Scholar](http
   **IPCO 2025, Mathematical Programming 2026**  
   [ArXiv version](https://arxiv.org/abs/2402.13227)  
   [Conference version](https://link.springer.com/chapter/10.1007/978-3-031-93112-3_8)  
-  [Journal version] (https://link.springer.com/article/10.1007/s10107-026-02360-2)  
+  [Journal version](https://link.springer.com/article/10.1007/s10107-026-02360-2)  
   [Slides](slides_online_matching.pdf)
 
 - ***A Nearly Optimal Randomized Algorithm for Explorable Heap Selection***  
