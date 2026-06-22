@@ -9,7 +9,7 @@ My main research interests are in theoretical computer science and combinatorial
 My CV can be found [here](Danish_Kashaev_CV.pdf) and my email address is:
 - danich dot 1997 at gmail dot com  
 
-(Note: my former CWI email danish.kashaev at cwi.nl is no longer active.)
+Note: my former CWI email danish.kashaev at cwi.nl is no longer active.
 
 Here are my [LinkedIn](https://www.linkedin.com/feed/) and [Google Scholar](https://scholar.google.com/citations?user=vXohJnQAAAAJ&hl=en) pages.
 
