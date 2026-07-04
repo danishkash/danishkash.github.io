@@ -7,7 +7,7 @@ I recently completed a PhD degree in the [Networks and Optimization research gro
 My main research interests are in theoretical computer science and combinatorial optimization. I have previously worked on topics such as approximation algorithms, online algorithms and algorithmic game theory.
 
 My CV can be found [here](Danish_Kashaev_CV.pdf) and my email address is:
-- kashaev dot danish at gmail dot com  
+- kashaev.danish at gmail.com  
 
 Note: my former CWI email danish.kashaev at cwi.nl is no longer active.
 
