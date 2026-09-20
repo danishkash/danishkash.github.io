@@ -2,14 +2,13 @@
 
 <img src="MK3_7365.jpg" alt="alt_text" width="200">
 
-I recently completed a PhD degree in the [Networks and Optimization research group](https://www.cwi.nl/en/research/networks-and-optimization/) at [Centrum Wiskunde & Informatica](https://www.cwi.nl/en/) in Amsterdam, advised by Guido Schäfer and Daniel Dadush. Previously, I did a Master's degree in mathematics at [ETH Zurich](https://math.ethz.ch) and a Bachelor's degree in mathematics at the [University of Geneva](https://www.unige.ch/math/en). 
+I am currently a postdoctoral researcher at the University of Oxford, hosted by Christian Coester. I did my PhD in the [Networks and Optimization research group](https://www.cwi.nl/en/research/networks-and-optimization/) at [Centrum Wiskunde & Informatica](https://www.cwi.nl/en/) in Amsterdam, advised by Guido Schäfer and Daniel Dadush, and obtained my degree from the [University of Amsterdam](https://www.illc.uva.nl). I completed a Master's degree in mathematics at [ETH Zurich](https://math.ethz.ch) and a Bachelor's degree in mathematics at the [University of Geneva](https://www.unige.ch/math/en). 
 
 My main research interests are in theoretical computer science and combinatorial optimization. I have previously worked on topics such as approximation algorithms, online algorithms and algorithmic game theory.
 
-My CV can be found [here](CV_DanishK_2026.pdf) and my email address is:
-- kashaev.danish (at) gmail.com  
-
-Note: my former CWI email danish.kashaev (at) cwi.nl is no longer active. Feel free to use the gmail address above if you would like to contact me.
+My CV can be found [here](CV_DanishK_2026.pdf) and my email addresses are:
+- kashaev.danish (at) gmail.com
+- danish.kashaev (at) cs.ox.ac.uk
 
 Here are my [LinkedIn](https://www.linkedin.com/feed/) and [Google Scholar](https://scholar.google.com/citations?user=vXohJnQAAAAJ&hl=en) pages.
 
