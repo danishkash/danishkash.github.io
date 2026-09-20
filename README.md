@@ -2,7 +2,7 @@
 
 <img src="MK3_7365.jpg" alt="alt_text" width="200">
 
-I am currently a postdoctoral researcher at the University of Oxford, hosted by Christian Coester. I did my PhD at [CWI (Centrum Wiskunde & Informatica](https://www.cwi.nl/en/) in Amsterdam, advised by Guido Schäfer and Daniel Dadush, and obtained my degree from the [University of Amsterdam](https://www.illc.uva.nl). Previously, I completed a Master's degree in mathematics at [ETH Zurich](https://math.ethz.ch) and a Bachelor's degree in mathematics at the [University of Geneva](https://www.unige.ch/math/en). 
+I am currently a postdoctoral researcher at the [University of Oxford](https://www.cs.ox.ac.uk), hosted by Christian Coester. I did my PhD at [CWI (Centrum Wiskunde & Informatica)](https://www.cwi.nl/en/) in Amsterdam, advised by Guido Schäfer and Daniel Dadush, and obtained my degree from the [University of Amsterdam](https://www.illc.uva.nl). Previously, I completed a Master's degree in mathematics at [ETH Zurich](https://math.ethz.ch) and a Bachelor's degree in mathematics at the [University of Geneva](https://www.unige.ch/math/en). 
 
 My main research interests are in theoretical computer science and combinatorial optimization. I have previously worked on topics such as approximation algorithms, online algorithms and algorithmic game theory.
 
