@@ -15,7 +15,7 @@ Here are my [LinkedIn](https://www.linkedin.com/feed/) and [Google Scholar](http
 # Publications
 
 - ***Improved Online Load Balancing in the Two-Norm***  
-  Sander Borst, Danish Kashaev
+  Sander Borst, Danish Kashaev  
   **SODA 2027** (to appear)  
   [ArXiv version](https://arxiv.org/abs/2511.03345)
 
