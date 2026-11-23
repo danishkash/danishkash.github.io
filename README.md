@@ -6,7 +6,7 @@ I am currently a postdoctoral researcher at the [University of Oxford](https://w
 
 My main research interests are in theoretical computer science and combinatorial optimization. I have previously worked on topics such as approximation algorithms, online algorithms and algorithmic game theory.
 
-My CV can be found [here](CV_DanishK_2026.pdf) and my email addresses are:
+My CV can be found [here](CV_20Danish_20Kashaev.pdf) and my email addresses are:
 - kashaev.danish (at) gmail.com
 - danish.kashaev (at) cs.ox.ac.uk
 
